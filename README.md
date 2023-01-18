@@ -1,5 +1,7 @@
 # 🖥 💻 Desktop _OSs & Browsers_ - 📊 Market Share & 🎉 Popularity
 
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/70295997/213111611-d58d937e-c26a-4061-81f4-0cc670ea3540.png">
+
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/70295997/213108249-5f338060-b9d9-477e-af40-9637161eed6e.png">
 
 ## 🌐 🗓️ Browser Calendar 2022-2023
