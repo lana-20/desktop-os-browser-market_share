@@ -1,4 +1,4 @@
-# 🖥 💻 Desktop _OSs & Browsers_ - 📊 Market Share & 🎉 Populatity
+# 🖥 💻 Desktop _OSs & Browsers_ - 📊 Market Share & 🎉 Popularity
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/70295997/213108249-5f338060-b9d9-477e-af40-9637161eed6e.png">
 
